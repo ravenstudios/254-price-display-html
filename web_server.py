@@ -1,6 +1,8 @@
 import http.server
 import socketserver
 
+
+# Simple webserver to use in development
 # Set the port number you want to use (e.g., 8000)
 port = 8000
 
