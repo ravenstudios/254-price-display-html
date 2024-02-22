@@ -10,7 +10,7 @@ Html website that reads a json file converted from Open Office spreadsheet ".ods
 
 ## FullPageOS
 Using FullPageOS Raspberrypi distro. 
-## MAKE SURE TO KEEP USERNAME "pi" 
+MAKE SURE TO KEEP USERNAME "pi" 
 ## Convert .ods to .json
 
 To convert .ods to json after editing .ods file
