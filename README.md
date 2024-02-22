@@ -9,7 +9,8 @@ Html website that reads a json file converted from Open Office spreadsheet ".ods
 - Uses Open Office spreadsheets ".ods" to store current prices
 
 ## FullPageOS
-Using FullPageOS Raspberrypi distro.\n
+Using FullPageOS Raspberrypi distro.
+
 MAKE SURE TO KEEP USERNAME "pi" 
 ## Convert .ods to .json
 
