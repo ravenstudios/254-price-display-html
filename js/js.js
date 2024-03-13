@@ -10,7 +10,7 @@ $(()=>{
       // Header Row
       html += "<tr>"
       for(let i = 0; i < sheet1[0].length; i++){
-        html += "<th>" + sheet1[0][i] + "</th>"
+        html += "<td>" + sheet1[0][i] + "</td>"
       }
       html += "</tr>"
       // Rest of table
