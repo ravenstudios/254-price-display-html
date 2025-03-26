@@ -3,93 +3,67 @@
         [
             "Phone",
             "LCD",
-            "Back",
-            "Battery / Charger",
-            "Front Camera / Ear Speaker"
+            "Battery / Charger/Speaker"
         ],
         [
-            "iPhone 14 / Plus",
-            "195 USD",
-            "150 USD",
-            "N/A",
-            "N/A"
-        ],
-        [
-            "iPhone 13 Pro / Pro Max",
+            "Iphone 13 , 14, 15, 16, Pro Max",
             "250 USD",
-            "N/A",
-            "120 USD",
-            "120 USD"
+            "125 USD"
+        ],
+        [
+            "IPhone 13, 14, 15, 16, Pro, Plus",
+            "195 USD",
+            "115 USD"
         ],
         [
             "iPhone 13 / Mini",
             "135 USD",
-            "120 USD",
-            "115 USD",
-            "95 USD"
+            "115 USD"
         ],
         [
             "iPhone 12 Pro Max",
             "150 USD",
-            "140 USD",
-            "120 USD",
-            "105 USD"
+            "115 USD"
         ],
         [
             "iPhone 12 / Mini",
             "115 USD",
-            "120 USD",
-            "105 USD",
-            "105 USD"
+            "115 USD"
         ],
         [
             "iPhone 11 Pro / Pro Max ",
             "115 USD",
-            "100 USD",
-            "115 USD",
-            "95 USD"
-        ],
-        [
-            "iPhone XS Max",
-            "115 USD",
-            "80 USD",
-            "85 USD",
-            "95 USD"
+            "85 USD"
         ],
         [
             "iPhone X \u2013 iPhone 11",
             "100 USD",
-            "80 USD",
-            "85 USD",
-            "95 USD"
+            "85 USD"
         ],
         [
             "IPhone 6 - 8 / Plus",
             "75 USD",
-            "80 USD",
-            "65 USD",
-            "75 USD"
+            "65 USD"
         ],
         [
             "IPad 5/ Air 1",
             "140 USD",
-            "N/A",
-            "140 USD",
-            "N/A"
+            "140 USD"
         ],
         [
             "IPad 6 \u2013 8",
             "150 USD",
-            "N/A",
-            "150 USD",
-            "N/A"
+            "150 USD"
         ],
         [
             "IPad 9",
             "165 USD",
-            "N/A",
-            "165 USD",
-            "N/A"
+            "165 USD"
+        ],
+        [
+            "IPad 10",
+            "175 USD",
+            "175 USD"
         ],
         [],
         []
