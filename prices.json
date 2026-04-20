@@ -2,56 +2,101 @@
     "Sheet1": [
         [
             "Phone",
-            "LCD",
+            "OLED",
             "Battery / Charger/Speaker"
         ],
         [
-            "Iphone 13 , 14, 15, 16, Pro Max",
-            "250 USD",
-            "125 USD"
+            "IPhone 17 Pro Max",
+            "295 USD",
+            "115 USD"
         ],
         [
-            "IPhone 13, 14, 15, 16, Pro, Plus",
+            "IPhone 17 Pro",
+            "225 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 17",
+            "200 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 16, Plus,Pro, Pro Max",
+            "185 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 15 Pro, Pro Max",
             "195 USD",
             "115 USD"
         ],
         [
-            "iPhone 13 / Mini",
-            "135 USD",
+            "IPhone 15 Plus",
+            "180 USD",
             "115 USD"
         ],
         [
-            "iPhone 12 Pro Max",
+            "IPhone 15",
+            "165 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 14 Pro, Pro Max",
+            "185 USD",
+            "115 USD"
+        ],
+        [
+            "Iphone 14 Plus",
+            "165 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 14",
             "150 USD",
             "115 USD"
         ],
         [
-            "iPhone 12 / Mini",
+            "IPhone 13 Pro Max",
+            "135 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 13, Pro",
+            "120 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 13, 12, Mini",
             "115 USD",
             "115 USD"
         ],
         [
-            "iPhone 11 Pro / Pro Max ",
+            "IPhone 12 Pro Max",
+            "125 USD",
+            "115 USD"
+        ],
+        [
+            "IPhone 11 Pro, Pro Max",
             "115 USD",
             "85 USD"
         ],
         [
-            "iPhone X \u2013 iPhone 11",
+            "iPhone X \u2013 11",
             "100 USD",
             "85 USD"
         ],
         [
-            "IPhone 6 - 8 / Plus",
+            "Iphone 6-8, Plus",
             "75 USD",
             "65 USD"
         ],
         [
-            "IPad 5/ Air 1",
+            "IPad 5, Air 1",
             "140 USD",
             "140 USD"
         ],
         [
-            "IPad 6 \u2013 8",
+            "IPad 6-8",
             "150 USD",
             "150 USD"
         ],
@@ -61,7 +106,7 @@
             "165 USD"
         ],
         [
-            "IPad 10",
+            "IPad 10, 11",
             "175 USD",
             "175 USD"
         ],
